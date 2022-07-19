@@ -3,9 +3,11 @@
 Short Hands-On Guide how to deploy Devtron in a Kubernetes Kind Cluster
 
 GitOps, Kubernetes and Infrastructure as code are hot topics at the moment. They bring many advantages, making DevOps principles fairly easy to implement, and represent an added value for every team and company.
+
 This article explains how to create a local Kubernetes cluster based on Docker and deploy Devtron in it to manage your delivery workflow.
 
-Medium article: *Coming soon*
+# Medium Article
+https://medium.com/async-software/deploying-devtron-in-a-local-k8s-kind-cluster-using-terraform-cea9d4d9636
 
 ## Devtron
 
